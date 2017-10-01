@@ -1,3 +1,5 @@
+# Script forked from Dr. Toal's ple repo.
+
 #!/usr/bin/env bash
 function hex2dottedquad {
     counter=0
